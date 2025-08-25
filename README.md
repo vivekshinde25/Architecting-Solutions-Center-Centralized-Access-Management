@@ -208,7 +208,7 @@ This ensures **scalability, reliability, compliance, and a smooth hybrid-to-clou
 ---
 ## Architecture Diagram
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/vivekshinde25/Architecting-Solutions-Centralized-Access-Management/blob/e6771563e3642558d28017021e3f951837e69f5c/Screenshot%202025-08-26%20003544.png))
+![App Screenshot](https://github.com/vivekshinde25/Architecting-Solutions-Centralized-Access-Management/blob/77a018422be0c362d83b76733598233ba730fbc0/Screenshot%202025-08-26%20003544.png)
 
 # 🚀 Solutions Chosen for Customer’s Requirements
 
